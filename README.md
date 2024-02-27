@@ -1,2 +1,2 @@
 # gitbasic
-name - Akash 
+name - Akash Pathak
